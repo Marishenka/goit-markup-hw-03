@@ -217,6 +217,7 @@ img {
 .team-member {
   background-color: #fff;
   margin-bottom: 32px;
+  border-radius: 0 0 4px 4px;
 }
 .team-photo {
 }
@@ -261,6 +262,7 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
+  padding-right: 226px;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
